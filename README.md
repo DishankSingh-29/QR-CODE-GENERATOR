@@ -1,4 +1,6 @@
 # QR Code Generator
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## Overview
 This is a custom QR Code Generator that allows users to generate QR codes for various types of data, including website URLs, vCards, geolocation coordinates, phone numbers, social media links, and PDF files. Users can also customize the QR code colors.
