@@ -71,5 +71,5 @@ Contributions are welcome! To contribute:
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any issues or suggestions, feel free to open an issue or reach out at `dishanksingh36@gmail.com`.
+## Contribution
+Contributions are welcome! Feel free to submit issues or pull requests.
