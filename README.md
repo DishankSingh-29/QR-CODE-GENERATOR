@@ -25,7 +25,7 @@ Ensure you have the following installed on your system:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/qr-code-generator.git
+   git clone https://github.com/DishankSingh-29/qr-code-generator.git
    cd qr-code-generator
    ```
 2. Install dependencies:
