@@ -38,7 +38,7 @@ Ensure you have the following installed on your system:
 ### Running the QR Code Generator
 Run the script in the terminal:
 ```sh
-python qr_generator.py
+python QR_Code_Generator.py
 ```
 
 ### User Options
