@@ -56,13 +56,10 @@ The user then provides the necessary details, selects colors, and the QR code is
 
 ## Example
 Generating a QR code for a website:
-```sh
-Enter your choice (1-6): 1
-Enter your Website URL: https://example.com
-Enter QR code color (or press Enter for default black): blue
-Enter background color (or press Enter for default white): yellow
-QR Code saved as qr_code_1.png.
-```
+| UserInput | QR Code |
+|----------------|---------------|
+| <img src="https://github.com/user-attachments/assets/fe653dd7-d9f0-45e3-9632-bcb1d192f9a9" alt="Screenshot 2025-03-16 205048" width="450">| <img src="https://github.com/user-attachments/assets/828acb00-8312-446b-a6c5-951d1a48ea65" alt="Screenshot 2025-03-16 205018" width="450"> |  
+
 
 ## Contributing
 Contributions are welcome! To contribute:
